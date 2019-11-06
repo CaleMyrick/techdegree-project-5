@@ -1,0 +1,19 @@
+*{
+  margin:none;
+  padding:none;
+  text-align:center;
+}
+
+input {
+  width:50%;
+  margin-top:1em;
+  padding: .25em 0 .25em 0;
+  text-align: left;
+  font-size: 16pt;
+  border-radius:6px;
+
+}
+
+::placeholder{
+  padding-left:10px;
+}
