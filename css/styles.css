@@ -17,3 +17,93 @@ input {
 ::placeholder{
   padding-left:10px;
 }
+
+
+.photo-gallery{
+  padding-top:4em;
+}
+
+/* Styles for Images Using ID's */
+
+
+#one{
+    height:225px;
+    width:225px;
+    padding: 0 2em 2em 2em;
+}
+
+#two{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#three{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#four{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#five{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#six{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#seven{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#eight{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#nine{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#ten{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#eleven{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
+
+
+#twelve{
+  height:225px;
+  width:225px;
+  padding: 0 2em 2em 2em;
+}
