@@ -18,6 +18,15 @@ input {
   padding-left:10px;
 }
 
-.fancybox-caption__body{
+.fancybox-caption-wrap{
+  display:flex;
+  margin: 0 auto;
+}
 
+.fancybox-caption{
+  flex:1;
+  max-width: 600px;
+  padding:25px 0;
+  margin:0 auto;
+  background:none;
 }
