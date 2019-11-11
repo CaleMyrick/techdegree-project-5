@@ -18,6 +18,10 @@ input {
   padding-left:10px;
 }
 
+.images{
+  padding: 1.5em 1.5em 1.5em 1.5em;
+}
+
 .fancybox-caption-wrap{
   display:flex;
   margin: 0 auto;
