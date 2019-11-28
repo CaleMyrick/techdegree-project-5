@@ -7,3 +7,7 @@ Fully filterable photo gallery using fancybox. Gallery is filterable using any w
 ![Showing the lightbox feature](<img src="https://i.ibb.co/RvW2hJY/photogallery2.png" alt="photogallery2" border="0">)
 ![Filtering results on keyup, hiding non-matches.](<img src="https://i.ibb.co/Jc1VbJf/photogallery1.png" alt="photogallery1" border="0">)
 
+https://i.ibb.co/54QnrFt/photogallery3.png
+https://i.ibb.co/RvW2hJY/photogallery2.png
+https://i.ibb.co/Jc1VbJf/photogallery1.png
+
